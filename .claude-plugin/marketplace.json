@@ -1,0 +1,68 @@
+{
+  "name": "getsettld-design",
+  "owner": {
+    "name": "Colin",
+    "email": "getsettld-dev@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Curated design and UI/UX skills for building getSettld and related web projects in Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "source": { "source": "github", "repo": "anthropics/skills", "path": "frontend-design" },
+      "description": "Aesthetic direction, anti AI-slop. Official Anthropic skill."
+    },
+    {
+      "name": "web-artifacts-builder",
+      "source": { "source": "github", "repo": "anthropics/skills", "path": "web-artifacts-builder" },
+      "description": "React + Tailwind + shadcn artifacts for claude.ai."
+    },
+    {
+      "name": "canvas-design",
+      "source": { "source": "github", "repo": "anthropics/skills", "path": "canvas-design" },
+      "description": "Visual layouts, posters, hero compositions."
+    },
+    {
+      "name": "brand-guidelines",
+      "source": { "source": "github", "repo": "anthropics/skills", "path": "brand-guidelines" },
+      "description": "Brand consistency patterns."
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": { "source": "github", "repo": "nextlevelbuilder/ui-ux-pro-max-skill" },
+      "description": "67 UI styles, 96 color palettes, 99 UX rules."
+    },
+    {
+      "name": "web-design-guidelines",
+      "source": { "source": "github", "repo": "vercel-labs/agent-skills", "path": "web-design-guidelines" },
+      "description": "Vercel UI/UX quality gate, accessibility and best practices linter."
+    },
+    {
+      "name": "web-accessibility",
+      "source": { "source": "github", "repo": "supercent-io/skills-template", "path": "web-accessibility" },
+      "description": "WCAG 2.2 AA accessibility deep-dive."
+    },
+    {
+      "name": "shadcn-ui",
+      "source": { "source": "github", "repo": "giuseppe-trisciuoglio/developer-kit", "path": "shadcn-ui" },
+      "description": "shadcn/ui component management."
+    },
+    {
+      "name": "ui-animation",
+      "source": { "source": "github", "repo": "mblode/agent-skills", "path": "ui-animation" },
+      "description": "Motion design and micro-interactions."
+    },
+    {
+      "name": "taste-skill",
+      "source": { "source": "github", "repo": "Leonxlnx/taste-skill" },
+      "description": "Elite frontend design direction, distinctive aesthetics."
+    },
+    {
+      "name": "claude-designer-toolkit",
+      "source": { "source": "github", "repo": "wilwaldon/Claude-Code-Frontend-Design-Toolkit" },
+      "description": "Frontend design toolkit with curated style references."
+    }
+  ]
+}
