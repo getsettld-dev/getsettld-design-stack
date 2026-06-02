@@ -41,7 +41,7 @@
     },
     {
       "name": "web-accessibility",
-      "source": { "source": "github", "repo": "supercent-io/skills-template", "path": "web-accessibility" },
+      "source": { "source": "github", "repo": "rampstackco/claude-skills", "path": "skills/accessibility-audit" },
       "description": "WCAG 2.2 AA accessibility deep-dive."
     },
     {
